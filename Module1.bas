@@ -1,0 +1,13 @@
+Attribute VB_Name = "Module1"
+Sub MacroCheck()
+
+
+Dim testMessage As String
+
+
+testMessage = "Hello World!"
+
+
+MsgBox (testMessage)
+
+End Sub
